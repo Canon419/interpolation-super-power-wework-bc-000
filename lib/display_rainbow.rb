@@ -1,4 +1,5 @@
-def display_rainbow 
+def display_rainbow(array) 
 colors = ["red", "orange" "yellow", "green", "blue" "indigo" "violet"]
 letters = ["r", "o", "y", "g", "b", "i", "v"]
-puts ""
+  puts ""
+end
