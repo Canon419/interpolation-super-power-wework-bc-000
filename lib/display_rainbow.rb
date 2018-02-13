@@ -1,3 +1,3 @@
 def display_rainbow 
-puts (["red", "orange" "yellow", "green", "blue" "indigo" "violet"])
-end
+colors = ["red", "orange" "yellow", "green", "blue" "indigo" "violet"]
+letters = ["r", "o", "y", "g", "b", "i", "v"]
